@@ -10,7 +10,6 @@ import {LinearGradient} from 'expo-linear-gradient'
 import styles from './styles';
 
 
-
 export const Home = () => {
     let baseUrl = 'https://api.openweathermap.org/data/2.5/weather?q='
 
